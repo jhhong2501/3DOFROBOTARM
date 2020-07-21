@@ -32,7 +32,16 @@
 ### Hardware
 
 #### Microprocessor
-[Atmega128 datasheet](http://ww1.microchip.com/downloads/en/devicedoc/doc2467.pdf "Atmega128 datasheet")
+
+[STM32F401RET6 datasheet](https://kr.mouser.com/datasheet/2/389/dm00102166-1798034.pdf "STM32F401RET6")
+
+[Nucleo F401RE User Manual](https://www.st.com/resource/en/user_manual/dm00105823-stm32-nucleo-64-boards-mb1136-stmicroelectronics.pdf "Nucleo F401RE User Manual")
+
+[ACS712-5A dadtasheet](https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf "ACS712-5A")
+
+
+
+
 
 <hr/>
 
