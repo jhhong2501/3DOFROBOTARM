@@ -51,5 +51,7 @@
 <hr/>
 
 ## Reference
+[DC AC BLDC 모터 제어](http://www.bogdoo.com/b/shop/item.php?it_id=1503033887 "DC AC BLDC 모터 제어")
 
+[Introduction of Robotics](https://www.pearson.com/us/higher-education/program/Craig-Introduction-to-Robotics-Mechanics-and-Control-4th-Edition/PGM91709.html "Introduction of Robotics" )
 
