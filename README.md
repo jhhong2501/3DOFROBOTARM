@@ -16,12 +16,7 @@
 
 [STM32CubeIDE](https://atollic.com/resources/download/windows/ "STM32CubeIDE")
 
-<hr/>
-
-### Theory
-
-#### PID Control
-<pre><code>proportional </code></pre>
+[SerialChart](http://starlino.com/data/serialchart/SerialChart_v034.zip "SerialChart")
 
 <hr/>
 
@@ -44,9 +39,12 @@
 #### Current Sensor
 [ACS712-5A dadtasheet](https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf "ACS712-5A")
 
+<hr/>
 
+### Theory
 
-
+#### PID Control
+<pre><code>proportional </code></pre>
 
 <hr/>
 
